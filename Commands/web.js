@@ -1,6 +1,6 @@
 /* 
 
-Sew Queen Whatsapp Bot                       
+Node.js ankur Whatsapp Bot                       
 
 Telegram: https://t.me/ANKUR_PRO
 Facebook: https://www.facebook.com/
