@@ -2,11 +2,11 @@
 
 Sew Queen Whatsapp Bot                       
 
-Telegram: https://t.me/RavinduManoj
-Facebook: https://www.facebook.com/ravindu.manoj.79
+Telegram: https://t.me/ANKUR_PRO
+Facebook: https://www.facebook.com/
 Licensed under the  GPL-3.0 License;
 
-Coded By Ravindu Manoj
+Coded By ANKUR_PRO
 
 */ 
 let DataPack = require('sew-queen-pro');
